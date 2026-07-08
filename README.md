@@ -1,5 +1,5 @@
 # Apotris-Girl-soundtrack
-This repository contains SFX files for the game Apotris with a female voice, replacing the male voice in the original game.
+An unofficial voice modification pack for **Apotris** (the GBA homebrew game by **akouzoukos**), replacing female voice sound effects (SFX) for game events.
 # Before using this:
 - This is a fan-made project. All rights to the original game **Apotris** and its assets belong to **akouzoukos**.
 
@@ -19,7 +19,7 @@ If you have only an Android device
 # Contributors Wanted / Feedback
 This project is currently in progress. If you are using this voice pack and notice any original male SFX that I forgot to replace, please help me out!
 
-- You can report the missing actions/sounds by opening an **Issue** in this repository.
+- You can report the missing actions/sounds by opening an **Issue** in this repository (or contact @hieeeu.012 on Discord).
 
 - Alternatively, let me know the specific game event where the original voice still plays.
 # Progress
@@ -39,6 +39,6 @@ Tested with [Apotris GBA v4.1.0](<https://akouzoukos.com/apotris/downloads>). Ot
 # Credits:
 @hieeeuvn - own this repo.
 
-@akouzoukos - author of the game.
+@akouzoukos - author of Apotris.
 # License
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
