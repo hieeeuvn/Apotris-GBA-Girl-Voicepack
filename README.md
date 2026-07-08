@@ -45,5 +45,4 @@ Need help with testing on PC/Linux/Switch/3DS
 @hieeeuvn - own this repo.
 
 @akouzoukos - author of Apotris.
-# License
-This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
